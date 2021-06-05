@@ -1,5 +1,5 @@
 int main()
 {
-	std::cout <<"hello\n"s;
+	"hello"s << 1 ;
 }
 
